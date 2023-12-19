@@ -1,0 +1,2 @@
+# cdn
+my_cdn
